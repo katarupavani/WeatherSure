@@ -64,4 +64,6 @@ Before running the WeatherSure application, ensure that you have Node.js and npm
  # # To run the project on laptop  
 
    cd weatherSure 
+
+   
    npm run serve
